@@ -1,5 +1,9 @@
 ## **Hello, Welcome to MyGithub** 👋
-🌐 **[nugrohoofficial.com](https://nugrohoofficial.com/)** **|** 📩 **nugrohomuchammadparas@gmail.com** **|** 📍 **Jakarta Timur, Indonesia**
+🌐 **[nugrohoofficial.com](https://nugrohoofficial.com/)** **|** 📩 **nugrohomuchammadparas@gmail.com** **|** 📍 **[Jakarta Timur, Indonesia](https://maps.app.goo.gl/KbKWxyWVBgWi4uYJ7)**
+
+---
+
+**Web Developer dengan pengalaman lebih dari 3 tahun dalam mengembangkan aplikasi dan website berbasis Laravel, CodeIgniter, dan WordPress. Berpengalaman menyelesaikan 10+ project secara end-to-end mulai dari analisis kebutuhan, pengembangan, hingga deployment. Memiliki keahlian dalam membangun sistem berbasis data seperti Decision Support System menggunakan metode TOPSIS, Fuzzy Tsukamoto, SMART, dan C4.5. Terbiasa mengoptimalkan performa, skalabilitas, serta user experience pada aplikasi. Siap berkontribusi dalam tim untuk membangun solusi digital yang efisien, stabil, dan siap digunakan dalam skala production-ready**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nugrohomuchammadparas)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nugrohomuchammadparas) 
@@ -9,10 +13,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nugrohomuchammadparas)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nugrohomuchammadparas)
 
-
-**Web Developer dengan pengalaman lebih dari 3 tahun dalam mengembangkan aplikasi dan website berbasis Laravel, CodeIgniter, dan WordPress. Berpengalaman menyelesaikan 10+ project secara end-to-end mulai dari analisis kebutuhan, pengembangan, hingga deployment. Memiliki keahlian dalam membangun sistem berbasis data seperti Decision Support System menggunakan metode TOPSIS, Fuzzy Tsukamoto, SMART, dan C4.5. Terbiasa mengoptimalkan performa, skalabilitas, serta user experience pada aplikasi. Siap berkontribusi dalam tim untuk membangun solusi digital yang efisien, stabil, dan siap digunakan dalam skala production-ready**
-
 ---
+
 ### **Language & Tools**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -50,23 +52,32 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
+
 ---
+
+| Vision | Mision |
+| --- | --- |
+| Menciptakan solusi digital yang tidak hanya berfungsi dengan baik, tetapi juga mampu memberikan nilai strategis dan keunggulan kompetitif bagi setiap pengguna dan bisnis. Dengan mengedepankan inovasi, kualitas, serta pemanfaatan teknologi modern, saya berkomitmen untuk menghadirkan sistem yang efektif, efisien, dan berkelanjutan | Menjadi pengembang web yang profesional dengan terus mengembangkan dan meningkatkan keterampilan dalam bidang pengembangan aplikasi serta teknologi web. Berkomitmen untuk selalu mengikuti perkembangan teknologi terbaru, meningkatkan kualitas kerja, serta menghasilkan solusi digital yang inovatif, efektif, dan sesuai kebutuhan |
+
+---
+
 ### **Statistik Profile**
-![NugrohoMuchammadParas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NugrohoMuchammadParas&theme=github_dark&animation=rgb-soft)
+![NugrohoMuchammadParas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NugrohoMuchammadParas&theme=github_dark&animation=rgb-soft&card_width=1000)
 
 ![NugrohoMuchammadParas](https://github-readme-stats.shion.dev/api?username=NugrohoMuchammadParas&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=800)
 
 ![NugrohoMuchammadParas](https://github-readme-stats.shion.dev/api/top-langs/?username=NugrohoMuchammadParas&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=800)
 
-![NugrohoMuchammadParas](https://streak-stats.demolab.com/?user=NugrohoMuchammadParas&theme=transparent&hide_border=false&card_width=800)
+---
 
-![nugrohomuchammadparas](https://komarev.com/ghpvc/?username=nugrohomuchammadparas&style=plastic)
----
-| Command | Description |
+### **Work Experience**
+| About Instution | Goals Project |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Web Developer<br>Trans Jaya Makmur Auto Care<br>Jan 2025 – Mar 2025 | • Mengembangkan dan mengelola 6+ website company profile menggunakan WordPress sesuai kebutuhan bisnis <br>• Mengimplementasikan kustomisasi tema (UI/UX) untuk meningkatkan tampilan profesional dan konsistensi brand <br>• Membangun website yang responsif dan mobile-friendly di berbagai perangkat <br>• Mengoptimalkan performa website melalui manajemen plugin, optimasi media, dan struktur halaman <br>• Berkontribusi meningkatkan user experience dan performa website melalui penerapan best practice UI/UX |
+| Web Developer (Freelance)<br>Multiple Clients <br>Mar 2022 – Nov 2024 |  • Mengembangkan 5+ aplikasi web berbasis Laravel dan CodeIgniter sesuai kebutuhan bisnis klien <br>• Membangun sistem penilaian kinerja dan sistem manajemen data untuk meningkatkan efisiensi dan akurasi data <br>• Mengimplementasikan metode TOPSIS, Fuzzy Tsukamoto, SMART, dan C4.5 dalam pengambilan keputusan <br>• Merancang dan mengembangkan sistem backend serta pengelolaan database menggunakan MySQL <br>• Menyelesaikan project secara end-to-end mulai dari analisis kebutuhan, pengembangan, testing, hingga deployment <br>• Berhasil membantu klien dalam meningkatkan efektivitas proses bisnis melalui solusi digital |
+
 ---
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -78,19 +89,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ---
-### **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=NugrohoMuchammadParas&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+
+### **Dev Quote**
+>`Teknologi yang baik bukan yang paling kompleks, tetapi yang mampu menyelesaikan masalah dengan efektif`
+
 ---
-### **Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
----
-### **Top Contributed Repo**
-![](https://github-contributor-stats.vercel.app/api?username=NugrohoMuchammadParas&limit=5&theme=transparent&combine_all_yearly_contributions=true)
----
-### **You can help me by Donating**
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nugrohomuchammadparas) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nugrohomuchammadparas) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nugrohomuchammadparas) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nugrohomuchammadparas) 
----
+
 ### **Games**
 <img data-importer="snake" src="https://raw.githubusercontent.com/nugrohomuchammadparas/nugrohomuchammadparas/snake-output/snake.svg" alt="Snake animation" />
 <picture data-importer="pacman">
